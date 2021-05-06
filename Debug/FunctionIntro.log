@@ -1,0 +1,5 @@
+﻿  FunctionIntro.cpp
+C:\Users\092834\OneDrive - UP Education\Desktop\CS103\FunctionIntro\FunctionIntro.cpp(16,11): warning C4101: 'y': unreferenced local variable
+C:\Users\092834\OneDrive - UP Education\Desktop\CS103\FunctionIntro\FunctionIntro.cpp(34,11): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\092834\OneDrive - UP Education\Desktop\CS103\FunctionIntro\FunctionIntro.cpp(35,11): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  FunctionIntro.vcxproj -> C:\Users\092834\OneDrive - UP Education\Desktop\CS103\FunctionIntro\Debug\FunctionIntro.exe
